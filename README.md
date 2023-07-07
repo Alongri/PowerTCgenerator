@@ -48,7 +48,9 @@ The script expects Excel files to follow a specific format to ensure proper data
 ## Contributing
 Contributions to the Power Test Campaign Generator are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request. Your contributions can help make this project even better.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Alon Gritsovsky
