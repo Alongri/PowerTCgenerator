@@ -31,22 +31,19 @@ The Power Test Campaign Generator is a Python script that automates the process 
    ```bash
     python power_tc_generator.py
 
-
-
-
 ## Excel File Format
 The script expects Excel files to follow a specific format to ensure proper data extraction and generation of test cases. Please make sure your Excel files adhere to the following guidelines:
 
-Each sheet in the Excel file represents a specific category of power tests.
-The first row of each sheet should contain the column headers.
-The first column of each sheet should contain the test case names.
-The second column of each sheet should contain the test case descriptions.
-Subsequent columns can contain test data specific to each test case.
+- Each sheet in the Excel file represents a specific category of power tests.
+- The first row of each sheet should contain the column headers.
+- The first column of each sheet should contain the test case names.
+- The second column of each sheet should contain the test case descriptions.
+- Subsequent columns can contain test data specific to each test case.
 
 ## File Structure
-power_tc_generator.py: The main Python script for generating the Power TC campaign.
-requirements.txt: A list of required Python dependencies.
-README.md: This file, providing information about the project.
+- power_tc_generator.py: The main Python script for generating the Power TC campaign.
+- requirements.txt: A list of required Python dependencies.
+- README.md: This file, providing information about the project.
 
 ## Contributing
 Contributions to the Power Test Campaign Generator are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request. Your contributions can help make this project even better.
